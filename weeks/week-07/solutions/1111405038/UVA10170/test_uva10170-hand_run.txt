@@ -1,0 +1,24 @@
+# UVA 10170 unittest 執行結果 (uva10170-hand.py)
+test_first_group (__main__.TestUVA10170.test_first_group)
+S=4, D=1：第 1 天 → 第 1 個旅行團（4 人）。 ... ok
+test_large_d (__main__.TestUVA10170.test_large_d)
+S=1, D=1000000000000000（10^15-1）：大數測試。 ... ok
+test_last_day_first_group (__main__.TestUVA10170.test_last_day_first_group)
+S=4, D=4：第 4 天 → 第 1 個旅行團最後一天（4 人）。 ... ok
+test_multiple_lines (__main__.TestUVA10170.test_multiple_lines)
+多行輸入測試（EOF 輸入格式）。 ... ok
+test_second_group (__main__.TestUVA10170.test_second_group)
+S=4, D=5：第 5 天 → 第 2 個旅行團（5 人）。 ... ok
+test_third_group (__main__.TestUVA10170.test_third_group)
+S=4, D=10：第 10 天 → 第 3 個旅行團（6 人）。 ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.201s
+
+OK
+
+--- 總結 ---
+testsRun: 6
+failures: 0
+errors: 0
+wasSuccessful: True

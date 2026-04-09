@@ -1,0 +1,18 @@
+# UVA 10062 unittest 執行結果 (uva10062-hand.py)
+test_increasing_order (__main__.TestUVA10062.test_increasing_order)
+測試原本隊伍已經是 1..N 由小到大的情況。 ... ok
+test_random_order_n4 (__main__.TestUVA10062.test_random_order_n4)
+另一組隨機排列測試：N=4。 ... ok
+test_small_example_n3 (__main__.TestUVA10062.test_small_example_n3)
+基本測試：N=3 的小型案例。 ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.098s
+
+OK
+
+--- 總結 ---
+testsRun: 3
+failures: 0
+errors: 0
+wasSuccessful: True

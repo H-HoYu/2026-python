@@ -1,0 +1,18 @@
+# UVA 10093 unittest 執行結果 (uva10093-hand.py)
+test_classic_5x4 (__main__.TestUVA10093.test_classic_5x4)
+測試經典 5×4 樣例。 ... ok
+test_single_H (__main__.TestUVA10093.test_single_H)
+測試 1×1 全是山地 H。 ... ok
+test_single_P (__main__.TestUVA10093.test_single_P)
+測試 1×1 全是平原 P。 ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.122s
+
+OK
+
+--- 總結 ---
+testsRun: 3
+failures: 0
+errors: 0
+wasSuccessful: True

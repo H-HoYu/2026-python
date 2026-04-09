@@ -1,0 +1,20 @@
+# UVA 10101 unittest 執行結果 (uva10101-hand.py)
+test_already_no (__main__.TestUVA10101.test_already_no)
+測試移動後無法整理為合法等式的案例：9=1+1# ... ok
+test_no_solution (__main__.TestUVA10101.test_no_solution)
+測試無解的案例：1+1=1# ... ok
+test_simple_has_solution (__main__.TestUVA10101.test_simple_has_solution)
+測試有解的簡單案例：1+1=3# ... ok
+test_subtract (__main__.TestUVA10101.test_subtract)
+測試含減號的案例：3-1=3# ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.134s
+
+OK
+
+--- 總結 ---
+testsRun: 4
+failures: 0
+errors: 0
+wasSuccessful: True

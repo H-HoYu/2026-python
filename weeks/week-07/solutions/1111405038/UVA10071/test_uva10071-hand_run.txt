@@ -1,0 +1,18 @@
+# UVA 10071 unittest 執行結果 (uva10071-hand.py)
+test_single_one (__main__.TestUVA10071.test_single_one)
+測試 S = {1} 的情況。 ... ok
+test_single_zero (__main__.TestUVA10071.test_single_zero)
+測試 S = {0} 的最簡單情況。 ... ok
+test_zero_and_one (__main__.TestUVA10071.test_zero_and_one)
+測試 S = {0,1}，檢查多種組合。 ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.108s
+
+OK
+
+--- 總結 ---
+testsRun: 3
+failures: 0
+errors: 0
+wasSuccessful: True
