@@ -1,0 +1,24 @@
+command
+python -m unittest -v test_uva10050.py
+
+solution
+uva10050-hand.py
+
+returncode
+0
+
+stdout
+
+
+stderr
+test_holiday_days_are_not_counted (test_uva10050.TestUVA10050.test_holiday_days_are_not_counted) ... ok
+test_multiple_cases_in_one_input (test_uva10050.TestUVA10050.test_multiple_cases_in_one_input) ... ok
+test_overlapping_hartals_count_once (test_uva10050.TestUVA10050.test_overlapping_hartals_count_once) ... ok
+test_problem_statement_example (test_uva10050.TestUVA10050.test_problem_statement_example) ... ok
+test_random_small_cases_match_reference_simulation (test_uva10050.TestUVA10050.test_random_small_cases_match_reference_simulation) ... ok
+test_single_party_longer_period (test_uva10050.TestUVA10050.test_single_party_longer_period) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.189s
+
+OK

@@ -1,0 +1,23 @@
+command
+python -m unittest -v test_uva10055.py
+
+solution
+uva10055-hand.py
+
+returncode
+0
+
+stdout
+test_all_increasing_initially (test_uva10055.TestUVA10055.test_all_increasing_initially) ... ok
+test_double_flip_restores_original_state (test_uva10055.TestUVA10055.test_double_flip_restores_original_state) ... ok
+test_mixed_updates_and_queries (test_uva10055.TestUVA10055.test_mixed_updates_and_queries) ... ok
+test_query_single_position_range (test_uva10055.TestUVA10055.test_query_single_position_range) ... ok
+test_random_operations_match_reference_simulation (test_uva10055.TestUVA10055.test_random_operations_match_reference_simulation) ... ok
+test_single_flip_changes_parity (test_uva10055.TestUVA10055.test_single_flip_changes_parity) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.795s
+
+OK
+
+stderr

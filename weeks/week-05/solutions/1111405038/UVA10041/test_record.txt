@@ -1,0 +1,25 @@
+command
+python -m unittest -v test_uva10041.py
+
+solution
+uva10041-hand.py
+
+returncode
+0
+
+stdout
+
+
+stderr
+test_duplicate_addresses_returns_zero (test_uva10041.TestUVA10041.test_duplicate_addresses_returns_zero) ... ok
+test_even_number_of_relatives (test_uva10041.TestUVA10041.test_even_number_of_relatives) ... ok
+test_multiple_cases_in_one_input (test_uva10041.TestUVA10041.test_multiple_cases_in_one_input) ... ok
+test_random_small_cases_match_bruteforce_reference (test_uva10041.TestUVA10041.test_random_small_cases_match_bruteforce_reference) ... ok
+test_single_relative_returns_zero (test_uva10041.TestUVA10041.test_single_relative_returns_zero) ... ok
+test_unsorted_addresses (test_uva10041.TestUVA10041.test_unsorted_addresses) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.196s
+
+OK
+

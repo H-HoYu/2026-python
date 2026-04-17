@@ -1,0 +1,24 @@
+command
+python -m unittest -v test_uva10057.py
+
+solution
+uva10057-hand.py
+
+returncode
+0
+
+stdout
+test_all_values_same (test_uva10057.TestUVA10057.test_all_values_same) ... ok
+test_duplicate_values_increase_count (test_uva10057.TestUVA10057.test_duplicate_values_increase_count) ... ok
+test_even_count_has_multiple_possible_a (test_uva10057.TestUVA10057.test_even_count_has_multiple_possible_a) ... ok
+test_multiple_datasets_until_eof (test_uva10057.TestUVA10057.test_multiple_datasets_until_eof) ... ok
+test_odd_count_has_single_best_a (test_uva10057.TestUVA10057.test_odd_count_has_single_best_a) ... ok
+test_random_small_cases_match_bruteforce_reference (test_uva10057.TestUVA10057.test_random_small_cases_match_bruteforce_reference) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.184s
+
+OK
+
+
+stderr

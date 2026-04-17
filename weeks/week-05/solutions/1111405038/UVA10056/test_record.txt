@@ -1,0 +1,24 @@
+command
+python -m unittest -v test_uva10056.py
+
+solution
+uva10056-hand.py
+
+returncode
+0
+
+stdout
+
+
+stderr
+test_first_player_with_certain_success (test_uva10056.TestUVA10056.test_first_player_with_certain_success) ... ok
+test_known_sample_style_values (test_uva10056.TestUVA10056.test_known_sample_style_values) ... ok
+test_multiple_cases_in_one_input (test_uva10056.TestUVA10056.test_multiple_cases_in_one_input) ... ok
+test_non_first_player_with_certain_success (test_uva10056.TestUVA10056.test_non_first_player_with_certain_success) ... ok
+test_random_cases_match_reference_formula (test_uva10056.TestUVA10056.test_random_cases_match_reference_formula) ... ok
+test_zero_probability_always_outputs_zero (test_uva10056.TestUVA10056.test_zero_probability_always_outputs_zero) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.170s
+
+OK
