@@ -1,0 +1,15 @@
+test_multiple_carry_operations (test_uva10035.TestUVA10035.test_multiple_carry_operations)
+進位超過一次時，輸出必須使用複數 operations。 ... ok
+test_multiple_cases_stop_at_zero_zero (test_uva10035.TestUVA10035.test_multiple_cases_stop_at_zero_zero)
+多筆測資需依序輸出，且讀到 0 0 後必須停止。 ... ok
+test_no_carry_operation (test_uva10035.TestUVA10035.test_no_carry_operation)
+若每一位相加都不到 10，就應輸出沒有進位。 ... ok
+test_one_carry_operation (test_uva10035.TestUVA10035.test_one_carry_operation)
+剛好一次進位時，輸出必須使用單數 operation。 ... ok
+test_previous_carry_affects_next_digit (test_uva10035.TestUVA10035.test_previous_carry_affects_next_digit)
+前一位的進位必須正確帶入下一位計算。 ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.161s
+
+OK

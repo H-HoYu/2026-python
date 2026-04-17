@@ -1,0 +1,15 @@
+test_case_insensitive_counting (test_uva10008.TestUVA10008.test_case_insensitive_counting)
+大小寫應視為同一個字母一起累計。 ... ok
+test_frequency_descending_then_alphabetical (test_uva10008.TestUVA10008.test_frequency_descending_then_alphabetical)
+先比次數高低，再用字母順序處理同分情況。 ... ok
+test_non_letters_should_be_ignored (test_uva10008.TestUVA10008.test_non_letters_should_be_ignored)
+數字、空白與標點符號都不應列入統計。 ... ok
+test_only_existing_letters_should_be_printed (test_uva10008.TestUVA10008.test_only_existing_letters_should_be_printed)
+沒有出現的字母不能輸出，完全沒有字母時應為空輸出。 ... ok
+test_same_frequency_should_sort_alphabetically (test_uva10008.TestUVA10008.test_same_frequency_should_sort_alphabetically)
+若出現次數相同，必須依照字母順序輸出。 ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.158s
+
+OK

@@ -1,0 +1,10 @@
+test_ambiguous_result_should_output_zero (test_uva948.TestUVA948.test_ambiguous_result_should_output_zero) ... ok
+test_conflicting_heavy_light_assumptions_should_output_zero (test_uva948.TestUVA948.test_conflicting_heavy_light_assumptions_should_output_zero) ... ok
+test_equal_weighing_can_directly_identify_fake_coin (test_uva948.TestUVA948.test_equal_weighing_can_directly_identify_fake_coin) ... ok
+test_multiple_cases_need_blank_line_between_answers (test_uva948.TestUVA948.test_multiple_cases_need_blank_line_between_answers) ... ok
+test_unique_fake_coin_after_multiple_weighings (test_uva948.TestUVA948.test_unique_fake_coin_after_multiple_weighings) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.189s
+
+OK

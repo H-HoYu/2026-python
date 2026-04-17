@@ -1,0 +1,15 @@
+test_multiple_cases_until_eof (test_uva10038.TestUVA10038.test_multiple_cases_until_eof)
+輸入有多列測資時，必須一路處理到 EOF。 ... ok
+test_repeated_difference_is_not_jolly (test_uva10038.TestUVA10038.test_repeated_difference_is_not_jolly)
+若差值重複，代表無法完整涵蓋 1 到 n-1。 ... ok
+test_sample_jolly_case (test_uva10038.TestUVA10038.test_sample_jolly_case)
+題目中的經典範例應判定為 Jolly。 ... ok
+test_sample_not_jolly_case (test_uva10038.TestUVA10038.test_sample_not_jolly_case)
+題目中的反例應判定為 Not jolly。 ... ok
+test_single_number_sequence_is_jolly (test_uva10038.TestUVA10038.test_single_number_sequence_is_jolly)
+只有一個數字時，沒有缺少的差值，因此應視為 Jolly。 ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.148s
+
+OK

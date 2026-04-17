@@ -1,0 +1,15 @@
+test_equal_numbers_should_output_zero (test_uva10019.TestUVA10019.test_equal_numbers_should_output_zero)
+若兩個整數相同，差值應輸出 0。 ... ok
+test_input_order_can_be_reversed (test_uva10019.TestUVA10019.test_input_order_can_be_reversed)
+題目允許兩個數的順序顛倒，因此必須取絕對值。 ... ok
+test_large_integers_should_work (test_uva10019.TestUVA10019.test_large_integers_should_work)
+大整數測資也應能正確計算，不可因型別範圍出錯。 ... ok
+test_multiple_cases_until_eof (test_uva10019.TestUVA10019.test_multiple_cases_until_eof)
+輸入沒有測資數量，必須一路讀到 EOF 為止。 ... ok
+test_single_case_difference (test_uva10019.TestUVA10019.test_single_case_difference)
+最基本情況：一組資料輸出兩數的正差值。 ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.149s
+
+OK
