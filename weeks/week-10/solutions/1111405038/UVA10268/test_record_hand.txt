@@ -1,0 +1,8 @@
+﻿test_fixed_cases (weeks.week-10.solutions.1111405038.UVA10268.test_uva10268.TestCandidateProgram.test_fixed_cases) ... ok
+test_many_cases (weeks.week-10.solutions.1111405038.UVA10268.test_uva10268.TestCandidateProgram.test_many_cases) ... ok
+test_bruteforce_crosscheck (weeks.week-10.solutions.1111405038.UVA10268.test_uva10268.TestReference.test_bruteforce_crosscheck) ... ok
+test_known_small (weeks.week-10.solutions.1111405038.UVA10268.test_uva10268.TestReference.test_known_small) ... ok
+test_over_63 (weeks.week-10.solutions.1111405038.UVA10268.test_uva10268.TestReference.test_over_63) ... ok
+----------------------------------------------------------------------
+Ran 5 tests in 0.053s
+OK

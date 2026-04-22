@@ -1,0 +1,8 @@
+﻿test_fixed_cases (weeks.week-10.solutions.1111405038.UVA10252.test_uva10252.TestCandidateProgram.test_fixed_cases) ... ok
+test_random_cases (weeks.week-10.solutions.1111405038.UVA10252.test_uva10252.TestCandidateProgram.test_random_cases) ... ok
+test_bruteforce_match_random (weeks.week-10.solutions.1111405038.UVA10252.test_uva10252.TestReference.test_bruteforce_match_random) ... ok
+test_even_case_has_multiple_answers (weeks.week-10.solutions.1111405038.UVA10252.test_uva10252.TestReference.test_even_case_has_multiple_answers) ... ok
+test_story_example_like (weeks.week-10.solutions.1111405038.UVA10252.test_uva10252.TestReference.test_story_example_like) ... ok
+----------------------------------------------------------------------
+Ran 5 tests in 0.052s
+OK

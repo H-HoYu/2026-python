@@ -1,0 +1,8 @@
+﻿test_fixed_cases (weeks.week-10.solutions.1111405038.UVA10235.test_uva10235.TestCandidateProgram.test_fixed_cases) ... ok
+test_random_small_cases (weeks.week-10.solutions.1111405038.UVA10235.test_uva10235.TestCandidateProgram.test_random_small_cases) ... ok
+test_empty_grid (weeks.week-10.solutions.1111405038.UVA10235.test_uva10235.TestReferenceSolver.test_empty_grid) ... ok
+test_single_cell_open (weeks.week-10.solutions.1111405038.UVA10235.test_uva10235.TestReferenceSolver.test_single_cell_open) ... ok
+test_small_square (weeks.week-10.solutions.1111405038.UVA10235.test_uva10235.TestReferenceSolver.test_small_square) ... ok
+----------------------------------------------------------------------
+Ran 5 tests in 0.055s
+OK

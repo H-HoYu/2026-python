@@ -1,0 +1,8 @@
+﻿test_random_cases (weeks.week-10.solutions.1111405038.UVA10226.test_uva10226.TestCandidateProgram.test_random_cases) ... ok
+test_small_fixed_case (weeks.week-10.solutions.1111405038.UVA10226.test_uva10226.TestCandidateProgram.test_small_fixed_case) ... ok
+test_multi_case_parsing (weeks.week-10.solutions.1111405038.UVA10226.test_uva10226.TestReferenceSolver.test_multi_case_parsing) ... ok
+test_single_person (weeks.week-10.solutions.1111405038.UVA10226.test_uva10226.TestReferenceSolver.test_single_person) ... ok
+test_two_people_with_forbidden (weeks.week-10.solutions.1111405038.UVA10226.test_uva10226.TestReferenceSolver.test_two_people_with_forbidden) ... ok
+----------------------------------------------------------------------
+Ran 5 tests in 0.053s
+OK
