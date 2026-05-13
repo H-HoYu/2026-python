@@ -1,0 +1,13 @@
+測試時間: 2026-05-13 17:38:36
+測試目標: UVA10922-hand.py
+============================================================
+test_depth_1 (test_uva10922_hand.TestUVA10922Hand.test_depth_1) ... ok
+test_depth_2 (test_uva10922_hand.TestUVA10922Hand.test_depth_2) ... ok
+test_multiple_cases (test_uva10922_hand.TestUVA10922Hand.test_multiple_cases) ... ok
+test_not_multiple (test_uva10922_hand.TestUVA10922Hand.test_not_multiple) ... ok
+test_single_9 (test_uva10922_hand.TestUVA10922Hand.test_single_9) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.183s
+
+OK

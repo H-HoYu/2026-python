@@ -1,0 +1,12 @@
+測試時間: 2026-05-13 17:27:00
+測試目標: UVA10812-hand.py
+============================================================
+test_equal_scores (test_uva10812_hand.TestUVA10812Hand.test_equal_scores) ... ok
+test_even_and_negative_guard (test_uva10812_hand.TestUVA10812Hand.test_even_and_negative_guard) ... ok
+test_sample_cases (test_uva10812_hand.TestUVA10812Hand.test_sample_cases) ... ok
+test_zero_inputs (test_uva10812_hand.TestUVA10812Hand.test_zero_inputs) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.147s
+
+OK

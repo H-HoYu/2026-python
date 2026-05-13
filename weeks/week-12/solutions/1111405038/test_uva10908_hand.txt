@@ -1,0 +1,12 @@
+測試時間: 2026-05-13 17:34:50
+測試目標: UVA10908-hand.py
+============================================================
+test_center_all_same (test_uva10908_hand.TestUVA10908Hand.test_center_all_same) ... ok
+test_corner_query (test_uva10908_hand.TestUVA10908Hand.test_corner_query) ... ok
+test_sample (test_uva10908_hand.TestUVA10908Hand.test_sample) ... ok
+test_single_cell (test_uva10908_hand.TestUVA10908Hand.test_single_cell) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.148s
+
+OK

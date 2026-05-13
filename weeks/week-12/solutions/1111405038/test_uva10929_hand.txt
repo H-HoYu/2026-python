@@ -1,0 +1,13 @@
+測試時間: 2026-05-13 17:41:42
+測試目標: UVA10929-hand.py
+============================================================
+test_large_multiple (test_uva10929_hand.TestUVA10929Hand.test_large_multiple) ... ok
+test_multiple_11 (test_uva10929_hand.TestUVA10929Hand.test_multiple_11) ... ok
+test_multiple_22 (test_uva10929_hand.TestUVA10929Hand.test_multiple_22) ... ok
+test_multiple_cases (test_uva10929_hand.TestUVA10929Hand.test_multiple_cases) ... ok
+test_not_multiple (test_uva10929_hand.TestUVA10929Hand.test_not_multiple) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.181s
+
+OK

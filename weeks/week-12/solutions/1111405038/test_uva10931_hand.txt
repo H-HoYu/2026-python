@@ -1,0 +1,13 @@
+測試時間: 2026-05-13 17:43:57
+測試目標: UVA10931-hand.py
+============================================================
+test_all_ones (test_uva10931_hand.TestUVA10931Hand.test_all_ones) ... ok
+test_large_value (test_uva10931_hand.TestUVA10931Hand.test_large_value) ... ok
+test_multiple_lines (test_uva10931_hand.TestUVA10931Hand.test_multiple_lines) ... ok
+test_power_of_two (test_uva10931_hand.TestUVA10931Hand.test_power_of_two) ... ok
+test_sample_cases (test_uva10931_hand.TestUVA10931Hand.test_sample_cases) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.178s
+
+OK
