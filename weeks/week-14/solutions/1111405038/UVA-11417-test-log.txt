@@ -1,0 +1,14 @@
+[Time] 2026-05-27T14:05:09
+[Test Count] 23
+
+[Target] UVA-11417.py
+[Exit Code] 0
+[Result] PASS
+
+[Target] UVA-11417-easy.py
+[Exit Code] 0
+[Result] PASS
+
+[Target] UVA-11417-hand.py
+[Exit Code] 0
+[Result] PASS

@@ -1,0 +1,14 @@
+[Time] 2026-05-27T14:09:23
+[Test Count] 45
+
+[Target] UVA-12019.py
+[Exit Code] 0
+[Result] PASS
+
+[Target] UVA-12019-easy.py
+[Exit Code] 0
+[Result] PASS
+
+[Target] UVA-12019-hand.py
+[Exit Code] 0
+[Result] PASS
